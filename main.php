@@ -4,7 +4,7 @@
 
 ///https://api.telegram.org/bot<token>/setwebhook?url=<url>
 
-$botToken = "5261916902:AAFhg0QN0s9weVpPzIZdnNihjQLRSwfXbrk"; // Enter ur bot token
+$botToken = "5730054104:AAFjqnBteM_eKJqo7beo5rqGPgg3oTdRsG0"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
